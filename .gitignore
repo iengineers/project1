@@ -3,4 +3,6 @@ ignore files
 .cs
 .shagufta
 .abc
+.va
+.xyzcomp
 .var
